@@ -1,0 +1,51 @@
+{
+  "demandedSkills": [
+    { "skill": "Python", "demandCount": 24, "companies": ["DeepMind Analytics", "TensorWave AI", "CloudNative Corp", "ByteForge Technologies", "DataVault Analytics"], "trend": "rising", "avgSalaryBoost": 180000 },
+    { "skill": "Machine Learning", "demandCount": 12, "companies": ["DeepMind Analytics", "TensorWave AI", "CognizAI Research"], "trend": "rising", "avgSalaryBoost": 280000 },
+    { "skill": "SQL", "demandCount": 18, "companies": ["DeepMind Analytics", "Infosys", "DataVault Analytics", "QuantumSoft"], "trend": "stable", "avgSalaryBoost": 90000 },
+    { "skill": "Docker", "demandCount": 10, "companies": ["TensorWave AI", "CloudNative Corp", "ByteForge Technologies"], "trend": "rising", "avgSalaryBoost": 150000 },
+    { "skill": "Java", "demandCount": 14, "companies": ["Infosys", "Wipro", "QuantumSoft"], "trend": "stable", "avgSalaryBoost": 80000 },
+    { "skill": "JavaScript", "demandCount": 8, "companies": ["ByteForge Technologies", "QuantumSoft"], "trend": "stable", "avgSalaryBoost": 70000 },
+    { "skill": "React", "demandCount": 7, "companies": ["ByteForge Technologies", "QuantumSoft"], "trend": "stable", "avgSalaryBoost": 100000 },
+    { "skill": "AWS", "demandCount": 10, "companies": ["CloudNative Corp", "TensorWave AI", "ConnectSystems IoT"], "trend": "rising", "avgSalaryBoost": 200000 },
+    { "skill": "Kubernetes", "demandCount": 6, "companies": ["CloudNative Corp", "TensorWave AI"], "trend": "rising", "avgSalaryBoost": 250000 },
+    { "skill": "Embedded C", "demandCount": 9, "companies": ["AutoElec Systems", "ConnectSystems IoT", "ChipDesign Labs"], "trend": "stable", "avgSalaryBoost": 60000 },
+    { "skill": "VLSI", "demandCount": 4, "companies": ["ChipDesign Labs"], "trend": "stable", "avgSalaryBoost": 120000 },
+    { "skill": "Verilog", "demandCount": 4, "companies": ["ChipDesign Labs"], "trend": "stable", "avgSalaryBoost": 110000 },
+    { "skill": "IoT", "demandCount": 5, "companies": ["ConnectSystems IoT", "GreenPower Energy"], "trend": "rising", "avgSalaryBoost": 80000 },
+    { "skill": "PLC", "demandCount": 3, "companies": ["AutomationFirst"], "trend": "stable", "avgSalaryBoost": 50000 },
+    { "skill": "SCADA", "demandCount": 3, "companies": ["AutomationFirst"], "trend": "stable", "avgSalaryBoost": 40000 },
+    { "skill": "SolidWorks", "demandCount": 5, "companies": ["ThermalDynamics Ltd", "AeroManu Systems"], "trend": "stable", "avgSalaryBoost": 40000 },
+    { "skill": "ANSYS", "demandCount": 5, "companies": ["ThermalDynamics Ltd", "AeroManu Systems"], "trend": "stable", "avgSalaryBoost": 60000 },
+    { "skill": "AutoCAD", "demandCount": 8, "companies": ["ThermalDynamics Ltd", "AeroManu Systems", "BuildRight Infrastructure", "GeoSurv Technologies"], "trend": "stable", "avgSalaryBoost": 30000 },
+    { "skill": "STAAD Pro", "demandCount": 3, "companies": ["BuildRight Infrastructure"], "trend": "stable", "avgSalaryBoost": 40000 },
+    { "skill": "REVIT", "demandCount": 2, "companies": ["BuildRight Infrastructure"], "trend": "rising", "avgSalaryBoost": 50000 },
+    { "skill": "GIS", "demandCount": 2, "companies": ["GeoSurv Technologies"], "trend": "rising", "avgSalaryBoost": 60000 },
+    { "skill": "Deep Learning", "demandCount": 8, "companies": ["DeepMind Analytics", "CognizAI Research"], "trend": "rising", "avgSalaryBoost": 320000 },
+    { "skill": "Cloud", "demandCount": 11, "companies": ["CloudNative Corp", "TensorWave AI", "DeepMind Analytics"], "trend": "rising", "avgSalaryBoost": 180000 },
+    { "skill": "Git", "demandCount": 15, "companies": ["Multiple"], "trend": "stable", "avgSalaryBoost": 20000 },
+    { "skill": "DSA", "demandCount": 18, "companies": ["Multiple"], "trend": "stable", "avgSalaryBoost": 100000 }
+  ],
+  "departmentSkillGaps": {
+    "CSE": {
+      "topMissingSkills": ["Docker", "Kubernetes", "AWS", "System Design", "DSA Advanced"],
+      "coveragePercentage": 72
+    },
+    "ECE": {
+      "topMissingSkills": ["Python", "Machine Learning", "FPGA", "SystemVerilog", "IoT Platforms"],
+      "coveragePercentage": 58
+    },
+    "EEE": {
+      "topMissingSkills": ["Python", "PLC Programming", "SCADA", "IoT", "Power Electronics Advanced"],
+      "coveragePercentage": 45
+    },
+    "MECH": {
+      "topMissingSkills": ["Python", "ANSYS CFD", "Lean Six Sigma", "CATIA", "FEA Advanced"],
+      "coveragePercentage": 55
+    },
+    "CIVIL": {
+      "topMissingSkills": ["BIM Software", "Python", "GIS Tools", "Structural Software", "Project Management"],
+      "coveragePercentage": 50
+    }
+  }
+}

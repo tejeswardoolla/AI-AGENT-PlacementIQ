@@ -1,0 +1,77 @@
+[
+  {
+    "year": 2023,
+    "totalStudents": 320,
+    "totalPlaced": 228,
+    "placementPercentage": 71.25,
+    "averageSalary": 680000,
+    "highestSalary": 1800000,
+    "companiesHired": 16,
+    "totalOffers": 245,
+    "departmentStats": {
+      "CSE": { "total": 80, "placed": 68, "percentage": 85.0, "avgSalary": 980000 },
+      "ECE": { "total": 75, "placed": 52, "percentage": 69.3, "avgSalary": 720000 },
+      "EEE": { "total": 60, "placed": 38, "percentage": 63.3, "avgSalary": 620000 },
+      "MECH": { "total": 65, "placed": 44, "percentage": 67.7, "avgSalary": 600000 },
+      "CIVIL": { "total": 40, "placed": 26, "percentage": 65.0, "avgSalary": 560000 }
+    },
+    "topCompanies": ["Infosys", "Wipro", "TechMahindra", "ChipDesign Labs", "BuildRight Infrastructure"],
+    "topRoles": ["Systems Engineer", "VLSI Engineer", "Software Developer", "Firmware Engineer", "Structural Engineer"]
+  },
+  {
+    "year": 2024,
+    "totalStudents": 335,
+    "totalPlaced": 252,
+    "placementPercentage": 75.22,
+    "averageSalary": 780000,
+    "highestSalary": 2200000,
+    "companiesHired": 18,
+    "totalOffers": 268,
+    "departmentStats": {
+      "CSE": { "total": 85, "placed": 75, "percentage": 88.2, "avgSalary": 1120000 },
+      "ECE": { "total": 78, "placed": 56, "percentage": 71.8, "avgSalary": 820000 },
+      "EEE": { "total": 62, "placed": 40, "percentage": 64.5, "avgSalary": 680000 },
+      "MECH": { "total": 67, "placed": 48, "percentage": 71.6, "avgSalary": 680000 },
+      "CIVIL": { "total": 43, "placed": 33, "percentage": 76.7, "avgSalary": 640000 }
+    },
+    "topCompanies": ["DeepMind Analytics", "CloudNative Corp", "Infosys", "Wipro", "ByteForge Technologies"],
+    "topRoles": ["Data Scientist", "Platform Engineer", "Systems Engineer", "Full Stack Developer", "VLSI Engineer"]
+  },
+  {
+    "year": 2025,
+    "totalStudents": 350,
+    "totalPlaced": 276,
+    "placementPercentage": 78.86,
+    "averageSalary": 920000,
+    "highestSalary": 2800000,
+    "companiesHired": 19,
+    "totalOffers": 292,
+    "departmentStats": {
+      "CSE": { "total": 90, "placed": 82, "percentage": 91.1, "avgSalary": 1350000 },
+      "ECE": { "total": 80, "placed": 60, "percentage": 75.0, "avgSalary": 920000 },
+      "EEE": { "total": 65, "placed": 42, "percentage": 64.6, "avgSalary": 740000 },
+      "MECH": { "total": 70, "placed": 54, "percentage": 77.1, "avgSalary": 760000 },
+      "CIVIL": { "total": 45, "placed": 38, "percentage": 84.4, "avgSalary": 700000 }
+    },
+    "topCompanies": ["CognizAI Research", "TensorWave AI", "CloudNative Corp", "ByteForge Technologies", "ChipDesign Labs"],
+    "topRoles": ["Research Scientist", "AI Engineer", "Platform Engineer", "RTL Design Engineer", "BIM Engineer"]
+  },
+  {
+    "year": 2026,
+    "totalStudents": 362,
+    "totalPlaced": null,
+    "placementPercentage": null,
+    "averageSalary": null,
+    "highestSalary": null,
+    "companiesHired": 20,
+    "totalOffers": null,
+    "note": "Current year - ongoing placements",
+    "departmentStats": {
+      "CSE": { "total": 92, "placed": null, "percentage": null, "avgSalary": null },
+      "ECE": { "total": 82, "placed": null, "percentage": null, "avgSalary": null },
+      "EEE": { "total": 68, "placed": null, "percentage": null, "avgSalary": null },
+      "MECH": { "total": 72, "placed": null, "percentage": null, "avgSalary": null },
+      "CIVIL": { "total": 48, "placed": null, "percentage": null, "avgSalary": null }
+    }
+  }
+]
