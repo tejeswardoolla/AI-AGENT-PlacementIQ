@@ -5,7 +5,7 @@ echo   Pushing PlacementIQ to GitHub
 echo ============================================
 echo.
 
-set "PATH=C:\Users\LAB 02 - SYSTEM 39\flutter\bin\mingit\cmd;%PATH%"
+set "PATH=C:\Users\LAB 02 - SYSTEM 39\flutter\bin\mingit\cmd;C:\Users\LAB 02 - SYSTEM 39\flutter\bin\mingit\mingw64\libexec\git-core;%PATH%"
 
 echo Remote configured: https://github.com/tejeswardoolla/AI-AGENT-PlacementIQ.git
 echo Branch: main
